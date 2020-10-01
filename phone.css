@@ -41,3 +41,8 @@
     font-size: 13px;
     padding: 4px 8px;
 }
+.btn hover{
+    color:	#FFFF00;
+  font-weight: bold;
+  text-decoration: underline;
+}
